@@ -1,0 +1,13 @@
+
+.vid{
+    max-width: 60em;
+    margin: 10px auto;
+}
+.volver svg{
+    width: 30px;
+    color: white;
+    z-index: 5;
+    top: 0;
+    padding: 10px;
+    position: absolute;
+}
